@@ -1,11 +1,8 @@
-import math
 # This is exercise file to cover type conversions
 
 # String literals in python are surrounded by either single quotation marks, or double quotation marks.
 # 'hello' is the same as "hello"
 # You can assign a multiline string to a variable by using three quotes (single or double)
-print(math)
-
 
 example_1 = "hello world 1"
 example_2 = 'hello world 2'
