@@ -54,4 +54,6 @@ print(a.lower())        # returns "hello, world!"
 
 # To check string if a certain phrase or character is present in a string, we can use the keywords "in" or "not in".
 
-
+txt = "The rain in Spain stays mainly in the plain"
+x = "ain" in txt
+print(x)
